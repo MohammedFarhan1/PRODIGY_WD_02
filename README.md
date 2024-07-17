@@ -10,7 +10,7 @@ A simple and elegant stopwatch web application built using HTML, CSS, and JavaSc
 - User-friendly interface
 
 ## Demo
-Check out the live demo [here](#).
+Check out the live demo [here](https://mohammedfarhan1.github.io/PRODIGY_WD_02/).
 
 ## Installation
 1. Clone the repository:
